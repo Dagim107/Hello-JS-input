@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    margin: 0 50px;
+    background-color: rgb(242, 242, 242);
+    color: white;
+}
+
+.hellopage {
+    background-color: rgb(29, 46, 52);
+    padding: 50px;
+    border-radius: 5px;
+}
+
+#submit {
+    background-color: rgb(124, 196, 223);
+    padding: 5px 75px;
+    border-radius: 2px;
+    border-color: rgb(242, 242, 242);
+    border: 0px;
+}

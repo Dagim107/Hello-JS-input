@@ -17,8 +17,14 @@ body {
 
 #submit {
     background-color: rgb(124, 196, 223);
-    padding: 5px 75px;
+    padding: 5px 85px;
     border-radius: 2px;
     border-color: rgb(242, 242, 242);
     border: 0px;
+}
+
+@media (max-width: 600px) {
+    h2 {
+        padding: 0;
+    }
 }
